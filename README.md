@@ -6,7 +6,7 @@ To see demo: http://wellwind.github.io/bootstrap-responsive-tab-pills-to-navbar.
 ## How To Use
 
 ### Step1. Wrap a div with class name responsive-nav-tabs2bar/responsive-nav-pills2bar to navigation code
-```
+```HTML
 <div id="top_menu" class="responsive-nav-tabs2bar">
   <nav class="navbar navbar-default" role="navigation">
     <div class="container-fluid">
@@ -36,7 +36,7 @@ To see demo: http://wellwind.github.io/bootstrap-responsive-tab-pills-to-navbar.
 
 ### Step2. Add following javasciprt code
 
-```
+```JavaScript
   $(document).ready(function() {
 
 	var responsiveNavTabs2Bar = function() {
